@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+	<service id = "1001">
+		<action>org.cugxdy.business.login.LoginValid</action>
+	</service>
+	<service id = "1002">
+		<action>org.cugxdy.business.produce.ProduceAdd</action>
+	</service>
+	<service id = "1003">
+		<action>org.cugxdy.business.produce.ProduceQuery</action>
+	</service>
+</services>
